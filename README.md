@@ -18,6 +18,7 @@ Then in Claude Code ask things like *"explain Linux permissions like I'm 5"*. In
 | # | Skill | Level | Topic |
 |---|---|---|---|
 | 1 | [linux-basics-for-hackers](skills/linux-basics-for-hackers/SKILL.md) | Beginner | Linux for security |
+| 2 | [practical-packet-analysis](skills/practical-packet-analysis/SKILL.md) | Beginner | Network traffic & Wireshark |
 
 ## Notice
 
